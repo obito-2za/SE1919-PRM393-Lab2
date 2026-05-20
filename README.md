@@ -1,4 +1,4 @@
-# lab2_dart + Lab3
+# lab2 + Lab3
 
 A new Flutter project.
 
